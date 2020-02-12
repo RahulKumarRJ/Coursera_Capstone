@@ -1,15 +1,11 @@
 # Relocating to Another City: Where Could Be My Next Hometown?
-Thinh Nguyen-Vo  
-School of Interactive Arts + Technology, Simon Fraser University, BC, Canada  
-tnguyenv@sfu.ca
-
 
 # Abstract
 
 For several reasons, especially business, many people have to relocate. Most of the time, people know their target city (or area of cities), but have to spend lots of time on researching where exactly they should live. In other words, they need to survey which neighbourhood in the large city might fit themselves and their habits. Here, I propose a recommendation model that analyzes and clusters neighbourhoods of a target city into multiple groups with different characters; and compare them with one’s current neighbourhood, in order to recommend those in the target city that are most similar to one’s hometown. In in this project, we would apply and compare the two most common algorithms in clustering, i.e., DBSCAN and KMeans, to evaluate the feasibility of these algorithms in neighbourhoods clustering.
 
 
-# I. Introduction
+# I. Introduction - Description of the problem and the background
 
 Relocation has never been an easy decision for anyone. It usually takes time for researching with unstructured information on the Internet. Thanks to advancements in data science, many models and libraries are now available for building such systems that can help people shorten and prioritize the list of neighbourhoods of interest, hence reduce the task load and increase the efficiency.
 
